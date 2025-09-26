@@ -7,7 +7,7 @@ I'm a student (Currently learning programming) that found out technology and the
 - Likes to know why things work the way they do
 - Also likes learning overall
 
-My "skills" shine the most in JS, React, TS, HTML, CSS, and simiar stuff.
+My "skills" shine the most in JS, React, TS, HTML, CSS, and similar stuff.
 
 ##
 
